@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contacto
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDelfinoSquare)
+
+### Actividad
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DelfinoSquare/DelfinoSquare)
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DelfinoSquare/thirdrepo)
