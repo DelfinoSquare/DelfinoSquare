@@ -13,12 +13,8 @@
 
 -->
 ### :alien:
-<!-- NEW_ACTIVITY -->
-
-
-
-
-<!-- END_NEW_ACTIVITY -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 ### Contacto
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FDelfinoSquare)
